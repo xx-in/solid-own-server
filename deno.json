@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run -A --watch serve.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1",
+    "nanoid": "npm:nanoid@^5.1.5"
+  }
+}

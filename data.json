@@ -1,0 +1,932 @@
+{
+  "BErNovoNKyVqGzmcg1NgJ": {
+    "title": "汇书网",
+    "icon": "https://www.huibooks.com/favicon.ico",
+    "link": "https://www.huibooks.com/",
+    "group": "书籍"
+  },
+  "NemPuSj2KNiAdaJfPAP62": {
+    "title": "世界观：现代人必须要懂的科学哲学和科学史（原书第3版）-理查德·德威特-微信读书",
+    "icon": "https://rescdn.qqmail.com/node/wr/wrpage/style/images/independent/favicon/favicon_16h.png",
+    "link": "https://weread.qq.com/web/bookDetail/61f322a071fac4b261f20c8",
+    "group": "书籍"
+  },
+  "dofiIVLK1xoZdM7XQCXu3": {
+    "title": "Z-Library",
+    "icon": "https://zh.zlibrary-east.se/apple-touch-icon.png?v=1",
+    "link": "https://zh.zlibrary-east.se/",
+    "group": "书籍"
+  },
+  "dpTuDC-Er8X7tfdFdsBDo": {
+    "title": "斯坦福大学哲学百科全书",
+    "icon": "https://plato.stanford.edu/favicon.ico",
+    "link": "https://plato.stanford.edu/index.html",
+    "group": "书籍"
+  },
+  "mZPi0UhQ5DYGqTastmiXM": {
+    "title": "Eloquent JavaScript",
+    "icon": "https://eloquentjavascript.net/favicon.ico",
+    "link": "https://eloquentjavascript.net/",
+    "group": "书籍"
+  },
+  "y9bWQe1sEKyV4iOUUfJ6Q": {
+    "title": "关于本书 - Rust语言圣经(Rust Course)",
+    "icon": "https://course.rsfavicon.svg",
+    "link": "https://course.rs/about-book.html",
+    "group": "书籍"
+  },
+  "0rHU-hpLLwNlxZKOIs1Vf": {
+    "title": "天翼云盘",
+    "icon": "https://cloud.189.cn/favicon.ico",
+    "link": "https://cloud.189.cn/web/main",
+    "group": "其他"
+  },
+  "7btc9SDHO-COXJ_4puKq5": {
+    "title": "京东(JD.COM)",
+    "icon": "https://www.jd.com//www.jd.com/favicon.ico",
+    "link": "https://www.jd.com/",
+    "group": "其他"
+  },
+  "E3Mk8QYgzgBic4VipHIRT": {
+    "title": "浏览器插件下载",
+    "icon": "https://www.crxsoso.com/apple-touch-icon.png",
+    "link": "https://www.crxsoso.com/search",
+    "group": "其他"
+  },
+  "RGr2HU9OJILThiycZwPud": {
+    "title": "茶码",
+    "icon": "https://tea.codes/packs/media/images/logo-49813f2b19f57e0ce1bcc462f0b48ab8.svg",
+    "link": "https://tea.codes",
+    "group": "其他"
+  },
+  "VbZJPxeAAcTSrCkCrTYx2": {
+    "title": "apple 官网",
+    "icon": "https://www.apple.com.cn/favicon.ico",
+    "link": "https://www.apple.com.cn/",
+    "group": "其他"
+  },
+  "VlQnLD6od0UtcB9SWPDoo": {
+    "title": "知乎",
+    "icon": "https://www.zhihu.com/favicon.ico",
+    "link": "https://www.zhihu.com/",
+    "group": "其他"
+  },
+  "YM83laJwbj3hhLftbeay0": {
+    "title": "macos电池管理",
+    "icon": "https://github.com/fluidicon.png",
+    "link": "https://github.com/actuallymentor/battery",
+    "group": "其他"
+  },
+  "aH_mFsaxPQHZx3kpzLAsm": {
+    "title": "edge 扩展",
+    "icon": "https://edgestatic.azureedge.net/welcome/static/favicon.png",
+    "link": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/?hl=zh-CN",
+    "group": "其他"
+  },
+  "qILz4Bl4h0zT8gqd9TWko": {
+    "title": "wasmtime交流群",
+    "icon": "https://static.zulipchat.com/static/images/favicon.svg?v=4",
+    "link": "https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime",
+    "group": "其他"
+  },
+  "wTvYa4NPjirdtwvXLcLUK": {
+    "title": "Greasy油猴脚本",
+    "icon": "https://greasyfork.org/vite/assets/blacklogo16-bc64b9f7.png",
+    "link": "https://greasyfork.org/zh-CN",
+    "group": "其他"
+  },
+  "ypX1V_yD7eJzg66s47xaS": {
+    "title": "Mac 上“终端”中的键盘快捷键 - 官方 Apple 支持 (中国)",
+    "icon": "https://support.apple.com/favicon.ico",
+    "link": "https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac",
+    "group": "其他"
+  },
+  "-z3Jmm0_t2z8EN-F7wrKp": {
+    "title": "YApi 接口调试",
+    "icon": "https://yapi.csnd.com/favicon.ico",
+    "link": "https://yapi.csnd.com/group/20",
+    "group": "办公"
+  },
+  "1_oYSjQJl200DBffMhY9J": {
+    "title": "rainbond项目部署调试",
+    "icon": "https://rainbond.csnd.com/favicon.ico",
+    "link": "https://rainbond.csnd.com/#/account/center/binding",
+    "group": "办公"
+  },
+  "35tO50TtXwS6QVwepbIv4": {
+    "title": "电磁原型图",
+    "icon": "https://lanhuapp.com/favicon.ico",
+    "link": "https://lanhuapp.com/web/#/item/project/stage?pid=05be2dc2-c7b1-4533-ad7b-3a0c2135f3b9&teamId=baa70f42-7c2d-44eb-8ed9-c63e6007b0c2&tid=baa70f42-7c2d-44eb-8ed9-c63e6007b0c2",
+    "group": "办公"
+  },
+  "Il6DHQ7s4vDxDXakVEDVG": {
+    "title": "中软邮箱",
+    "icon": "https://mail.chinasoftinc.com/favicon.ico",
+    "link": "https://mail.chinasoftinc.com/owa/",
+    "group": "办公"
+  },
+  "N5ibFubGfyYpUp_XfV9lI": {
+    "title": "中国农业银行招聘",
+    "icon": "https://career.abchina.com./abc.ico",
+    "link": "https://career.abchina.com/build/index.html#/MySubmit",
+    "group": "办公"
+  },
+  "Rg97wzGfdNOkzechSZrSC": {
+    "title": "牛客网",
+    "icon": "https://www.nowcoder.com/favicon.ico",
+    "link": "https://www.nowcoder.com/exam/oj/ta?tpId=37",
+    "group": "办公"
+  },
+  "UnKZmJaqhOQOZ_5sx6YJe": {
+    "title": "星网-git仓库",
+    "icon": "https://gitea.csnd.com/favicon.ico",
+    "link": "https://gitea.csnd.com/",
+    "group": "办公"
+  },
+  "o6nJLMKfuoPeDt-J24mfR": {
+    "title": "Boss直聘",
+    "icon": "https://www.zhipin.com/favicon.ico",
+    "link": "https://www.zhipin.com/web/geek/chat?ka=header-message",
+    "group": "办公"
+  },
+  "1_Ml-4E3BL9RScsWYjFqM": {
+    "title": "solidjs信号和同步",
+    "icon": "https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png",
+    "link": "https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob",
+    "group": "博客"
+  },
+  "2GGyTpJMP7KeytmYQVuqM": {
+    "title": "mobx响应式原理",
+    "icon": "https://hackernoon.com/favicon.ico",
+    "link": "https://hackernoon.com/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254",
+    "group": "博客"
+  },
+  "4nCJOUTpTn7LwpWnnS-V_": {
+    "title": "前端性能优化",
+    "icon": "https://juejin.cn/favicon.ico",
+    "link": "https://juejin.cn/post/6892994632968306702?searchId=20231212154354E143C44ED36FAA131C34",
+    "group": "博客"
+  },
+  "6u1aHXSPLmNN1xe3qzIEs": {
+    "title": "Bun 和 Prisma",
+    "icon": "https://bun.sh/favicon.ico",
+    "link": "https://bun.sh/guides/ecosystem/prisma",
+    "group": "博客"
+  },
+  "8X2BHkyReWfIZPmW8R2c9": {
+    "title": "自动检测夜间模式",
+    "icon": "https://developer.mozilla.org/favicon.ico",
+    "link": "https://developer.mozilla.org/zh-CN/docs/Web/CSS/@media/prefers-color-scheme",
+    "group": "博客"
+  },
+  "A0y0_pK1J7_T4o4Huq_8_": {
+    "title": "css 属性选择器",
+    "icon": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+    "link": "https://developer.mozilla.org/zh-CN/docs/Web/CSS/Attribute_selectors",
+    "group": "博客"
+  },
+  "AhbX7kVHz9gFTO6bBQ9EY": {
+    "title": "安装Homebrew（M1） - 知乎",
+    "icon": "https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.81060cab.png",
+    "link": "https://zhuanlan.zhihu.com/p/372576355",
+    "group": "博客"
+  },
+  "GGrtAm40FBZjVziqvn6V_": {
+    "title": "键盘事件输入法状态检测",
+    "icon": "https://www.zhihu.com/favicon.ico",
+    "link": "https://zhuanlan.zhihu.com/p/580324346",
+    "group": "博客"
+  },
+  "GOpFIEjPppT2lcrA5_0gg": {
+    "title": "图片跨域解决（meta）",
+    "icon": "https://st.imququ.com/static/img/blog/icon.png",
+    "link": "https://imququ.com/post/referrer-policy.html",
+    "group": "博客"
+  },
+  "H1VaPIedojDpWwGMuxrtE": {
+    "title": "前端安全",
+    "icon": "https://juejin.cn/favicon.ico",
+    "link": "https://juejin.cn/post/7067697624626757646",
+    "group": "博客"
+  },
+  "IZIu3p7oTH89SIi3MsyQz": {
+    "title": "数据源引擎设计 | Low-Code Engine",
+    "icon": "https://img.alicdn.com/imgextra/i2/O1CN01TNJDDg20pKniPOkN4_!!6000000006898-2-tps-66-78.png",
+    "link": "https://lowcode-engine.cn/site/docs/guide/design/datasourceEngine",
+    "group": "博客"
+  },
+  "Jz8qLllz_SOUoTx9U0Qcv": {
+    "title": "如何修复 HTTP“400 错误请求”错误？ [8种方法] - WPADE",
+    "icon": "https://www.wpade.com/favicon.ico",
+    "link": "https://www.wpade.com/zh-CN/400-bad-request.html",
+    "group": "博客"
+  },
+  "LnmWG1n-Lqfv6pxMJ7F4D": {
+    "title": "deno 安装",
+    "icon": "https://ts4.cn.mm.bing.net/th?id=ODLS.c1254629-b715-44aa-89a0-f3b3092f3198&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+    "link": "https://x.deno.js.cn/",
+    "group": "博客"
+  },
+  "MwIKwxKdZQND8gKXKDdo-": {
+    "title": "徐鑫的网址导航",
+    "icon": "https://xuxin.deno.dev/favicon.png",
+    "link": "https://xuxin.deno.dev/",
+    "group": "博客"
+  },
+  "NMFjpDbBKsLaUTnRnAq7R": {
+    "title": "汉字转拼音 - 掘金",
+    "icon": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/apple-touch-icon.png",
+    "link": "https://juejin.cn/post/6844903478171533326",
+    "group": "博客"
+  },
+  "Ncm8vqm5fsAHlEBwhdxt0": {
+    "title": "react router v6 history文档",
+    "icon": "https://github.com/favicon.ico",
+    "link": "https://github.com/remix-run/history/tree/main/docs",
+    "group": "博客"
+  },
+  "Q7UXZq5SerxILButqTGRX": {
+    "title": "状态码304和200",
+    "icon": "https://segmentfault.com/favicon.png",
+    "link": "https://segmentfault.com/a/1190000006772793",
+    "group": "博客"
+  },
+  "RB6-JMKxx77lQ0DX9C9UC": {
+    "title": "Firefox拖拽就会打开链接解决方案",
+    "icon": "http://mozilla.com.cn/favicon.ico",
+    "link": "http://mozilla.com.cn/thread-427852-1-1.html",
+    "group": "博客"
+  },
+  "TqyXrcrLwKLzOgnuov5Gy": {
+    "title": "monaco滚动",
+    "icon": "https://github.com/fluidicon.png",
+    "link": "https://github.com/microsoft/monaco-editor/issues/2243",
+    "group": "博客"
+  },
+  "VGanBc9Hp-4EAA38tVX_S": {
+    "title": "TCP协议",
+    "icon": "https://juejin.cn/favicon.ico",
+    "link": "https://juejin.cn/post/6844904070000410631?searchId=20231212153817A3FEEA89CE46A813B18F",
+    "group": "博客"
+  },
+  "WqpBSH-2X6XFCJuCIktEL": {
+    "title": "react 水合错误解决",
+    "icon": "https://www.joshwcomeau.com/assets/favicon.png?v=4",
+    "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+    "group": "博客"
+  },
+  "ZyRipf1LJ5aWioVrFivQN": {
+    "title": "angular icon 列表",
+    "icon": "https://programmersportal.com/wp-content/uploads/2021/05/cropped-cropped-pp-logo-removebg-preview-32x32.png",
+    "link": "https://programmersportal.com/list-of-all-angular-mat-iconsmat-icons-library/#:~:text=Here%20is%20the%20list%20of%201000%2B%20mat%20icons%3A,%20%20%3Cmat-icon%3Esettings%3C%2Fmat-icon%3E%20%2033%20more%20rows%20",
+    "group": "博客"
+  },
+  "_1RXZ8V9JwTlLafmP6cgR": {
+    "title": "git 文件名大小写",
+    "icon": "https://juejin.cn/favicon.ico",
+    "link": "https://juejin.cn/post/7007257539909779469",
+    "group": "博客"
+  },
+  "_5MKIVr5qsHh-qcvnzbfa": {
+    "title": "svelte 禁用 a11y",
+    "icon": "https://github.com/fluidicon.png",
+    "link": "https://github.com/sveltejs/language-tools/issues/650",
+    "group": "博客"
+  },
+  "bw88FP1FfH0WoPZzYETOq": {
+    "title": "什么是数据库事务 ACID",
+    "icon": "https://common.cnblogs.com/favicon.ico",
+    "link": "https://www.cnblogs.com/kismetv/p/10331633.html",
+    "group": "博客"
+  },
+  "fxfN2rUhwAQRX7sWFoeoN": {
+    "title": "为什么需要异步",
+    "icon": "https://www.cnblogs.com/favicon.png",
+    "link": "https://www.cnblogs.com/goya/p/11962828.html",
+    "group": "博客"
+  },
+  "lb5KZGdHjdi_UFSXtiKcO": {
+    "title": " Svelte社区组件",
+    "icon": "https://sveltesociety.dev/images/favicon-32x32.png",
+    "link": "https://sveltesociety.dev/components#design-systems",
+    "group": "博客"
+  },
+  "olYx2nMSQAOWUlmW8E7yu": {
+    "title": "解析文本为DOM",
+    "icon": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+    "link": "https://developer.mozilla.org/zh-CN/docs/Web/API/DOMParser",
+    "group": "博客"
+  },
+  "qPPHXuHYk6JOEEzu6tBOV": {
+    "title": "View 全局动画",
+    "icon": "https://developer.mozilla.org/favicon.ico",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API",
+    "group": "博客"
+  },
+  "tdAqCq6uSAighqt2pb2E_": {
+    "title": "SvelteKit 使用 Monaco Editor",
+    "icon": "https://www.codelantis.com/favicon.png",
+    "link": "https://www.codelantis.com/blog/sveltekit-monaco-editor",
+    "group": "博客"
+  },
+  "w2BPY8WW2wTAehJYfnXVB": {
+    "title": "npmmirror 镜像站",
+    "icon": "https://npmmirror.com/favicon.ico",
+    "link": "https://npmmirror.com",
+    "group": "博客"
+  },
+  "xh7ED-4T2dUC6q3zCGpzM": {
+    "title": "微前端详细介绍",
+    "icon": "https://martinfowler.com/favicon.ico",
+    "link": "https://martinfowler.com/articles/micro-frontends.html",
+    "group": "博客"
+  },
+  "zjv3jwJ2QVJso4-DdUqBm": {
+    "title": "开发提问平台",
+    "icon": "https://devv.ai/zh/favicon.ico",
+    "link": "https://devv.ai/zh/search?threadId=d95ms5vy2k1s",
+    "group": "博客"
+  },
+  "-ZV9cu8tZoSAYBprnaLO3": {
+    "title": "前端历史周报",
+    "icon": "https://github.githubassets.com/favicons/favicon.png",
+    "link": "https://github.com/ascoders/weekly",
+    "group": "学习"
+  },
+  "8TRX-3xiWKVSjaZkyVzg_": {
+    "title": "css如何工作",
+    "icon": "https://elad.medium.com/favicon.ico",
+    "link": "https://elad.medium.com/how-does-css-work-92fe7116916d",
+    "group": "学习"
+  },
+  "DM8fgZi-5ON8dszIcCXO9": {
+    "title": "Unicode 标准",
+    "icon": "https://www.unicode.org/favicon.ico",
+    "link": "https://www.unicode.org/versions/Unicode15.1.0/",
+    "group": "学习"
+  },
+  "GvUrQAf5tlHQKSo2AX5wp": {
+    "title": "Tailblocks Tailwind模版",
+    "icon": "https://tailblocks.cc/favicon.png",
+    "link": "https://tailblocks.cc/",
+    "group": "学习"
+  },
+  "H0qy0foXB8cQK2kM1nmBS": {
+    "title": "语义性标签",
+    "icon": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+    "link": "https://developer.mozilla.org/zh-CN/docs/Learn/Accessibility/HTML",
+    "group": "学习"
+  },
+  "HUFOvt3Yvkkt6qC4VXGiu": {
+    "title": "学堂在线（慕课）",
+    "icon": "https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/0329/logo.ico",
+    "link": "https://www.xuetangx.com/",
+    "group": "学习"
+  },
+  "LwxeLn3lkfB6g2WaJYHtP": {
+    "title": "svelte 双向绑定原理",
+    "icon": "https://codechips.me/favicon.ico",
+    "link": "https://codechips.me/svelte-bind-directive/",
+    "group": "学习"
+  },
+  "N3ifZfXqG0owXfvqj0Bxj": {
+    "title": "菜鸟教程 sqlite",
+    "icon": "https://static.runoob.com/images/favicon.ico",
+    "link": "https://www.runoob.com/sqlite/sqlite-tutorial.html",
+    "group": "学习"
+  },
+  "PaO9VA3Gkf2m6feSTnMJo": {
+    "title": "freecodecamp 官网",
+    "icon": "https://www.freecodecamp.org/favicon-32x32.png",
+    "link": "https://www.freecodecamp.org/",
+    "group": "学习"
+  },
+  "Q682ixfWIkkqVoIwTn9ne": {
+    "title": "package.json 详情",
+    "icon": "https://docs.npmjs.com/favicon-32x32.png?v=f44ec608ba91563f864a30a276cd9065",
+    "link": "https://docs.npmjs.com/cli/v7/using-npm/scripts",
+    "group": "学习"
+  },
+  "TLvjSkt4qPkM2WyokrF9B": {
+    "title": "mdn 首页",
+    "icon": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+    "link": "https://developer.mozilla.org/zh-CN/",
+    "group": "学习"
+  },
+  "VUQZvcgJk-luSKGlbld9S": {
+    "title": "ECMA-404 - JSON标准",
+    "icon": "https://www.ecma-international.org/wp-content/uploads/ecma-favicon@2x-300x300.png",
+    "link": "https://www.ecma-international.org/publications-and-standards/standards/ecma-404/",
+    "group": "学习"
+  },
+  "W9btsHIyRCypyuKOE6LNu": {
+    "title": "多邻国 外语学习",
+    "icon": "https://d35aaqx5ub95lt.cloudfront.net/favicon.ico",
+    "link": "https://www.duolingo.com",
+    "group": "学习"
+  },
+  "YqRRCwTV1dvLDcDk_m6Up": {
+    "title": "AssemblyScript",
+    "icon": "https://www.assemblyscript.org/favicons/apple-touch-icon.png",
+    "link": "https://www.assemblyscript.org",
+    "group": "学习"
+  },
+  "_nvAMzWfu1qZQyH9Gc5sa": {
+    "title": "Antd 组件颜色设计",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+    "link": "https://www.npmjs.com/package/@ant-design/colors",
+    "group": "学习"
+  },
+  "i2qyh8IvTOXcnkoIvYd6J": {
+    "title": "Monaco Editor API",
+    "icon": "https://microsoft.github.io/monaco-editor/9a60a3b3c5fcf6a9d2de2c28e5eaa986.svg",
+    "link": "https://microsoft.github.io/monaco-editor/typedoc/index.html",
+    "group": "学习"
+  },
+  "lWK9lcfjZgEgBXXvis1fT": {
+    "title": "RFC 8259: JSON标准",
+    "icon": "https://www.rfc-editor.org/favicon.ico",
+    "link": "https://www.rfc-editor.org/rfc/rfc8259",
+    "group": "学习"
+  },
+  "lfjsyLHbKoHnYJsijRVtZ": {
+    "title": "图灵社区（书籍）",
+    "icon": "https://www.ituring.com.cn/favicon.png",
+    "link": "https://www.ituring.com.cn/",
+    "group": "学习"
+  },
+  "n9LmvOoATodsbq33DFx5f": {
+    "title": "rust 实验书",
+    "icon": "https://www.rust-lang.org/static/images/favicon.svg",
+    "link": "https://rust-book.cs.brown.edu/experiment-intro.html",
+    "group": "学习"
+  },
+  "nkiozS9nd5yLE4o5k6rpk": {
+    "title": "Base64标准",
+    "icon": "https://www.rfc-editor.org/favicon.ico",
+    "link": "https://www.rfc-editor.org/rfc/rfc4648.html",
+    "group": "学习"
+  },
+  "nl4Pc_UsEA-vcxyQ-z3lp": {
+    "title": "大学慕课",
+    "icon": "https://tse4-mm.cn.bing.net/th/id/OIP-C.XxbuJMKYHoDFzGGAsu_jCgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=2&pid=1.7",
+    "link": "https://www.icourse163.org/",
+    "group": "学习"
+  },
+  "slv-RBUl6t0TtSI5-QXMF": {
+    "title": "WebAssembly 2.0 wasm",
+    "icon": "https://webassembly.github.io/favicon.ico",
+    "link": "https://webassembly.github.io/spec/core/intro/introduction.html#design-goals",
+    "group": "学习"
+  },
+  "tR6MPWH9cWrr6jClt7-e4": {
+    "title": " the-new-css-reset现代化样式重置",
+    "icon": "https://elad2412.github.io/favicon.ico",
+    "link": "https://elad2412.github.io/the-new-css-reset/",
+    "group": "学习"
+  },
+  "xkjwjciR-H-AEjfceHXNA": {
+    "title": "如何理解链表",
+    "icon": "https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.81060cab.png",
+    "link": "https://www.zhihu.com/question/31082722",
+    "group": "学习"
+  },
+  "zYNoHxo1i-zURqbLcPjLq": {
+    "title": "python123 教程",
+    "icon": "https://python123.io/favicon.ico",
+    "link": "https://python123.io/",
+    "group": "学习"
+  },
+  "b-88InMFz_Gp9xNfTQBLz": {
+    "title": "北京市医疗保障局",
+    "icon": "http://ybj.beijing.gov.cn/images/20_yb_sdzc.png",
+    "link": "http://ybj.beijing.gov.cn/",
+    "group": "政府"
+  },
+  "-4x9zlCE4FGHsm4EDxrLf": {
+    "title": "双斩少女第01集视频高清在线观看-大米动漫",
+    "icon": "https://www.damidm.com/upload/mxprocms/20230122-1/7bc52c269e1a1e301f48366fa1f93e0f.png",
+    "link": "https://www.damidm.com/player/10105-1-1.html",
+    "group": "视频"
+  },
+  "0mlE_v7yv8X-VvyWghC2x": {
+    "title": "dilidili 视频",
+    "icon": "http://dilidili9.com/favicon.ico",
+    "link": "http://dilidili9.com/",
+    "group": "视频"
+  },
+  "1Z5g1PaKWwtlYOf11VtCH": {
+    "title": "《葬送的芙莉莲》",
+    "icon": "https://vidhub.tv/mxstatic/image/logo2.png",
+    "link": "https://vidhub.tv/vodplay/235556-2-4.html",
+    "group": "视频"
+  },
+  "1ZPqEHI98qY0NVs1MP4yR": {
+    "title": "抖音",
+    "icon": "https://www.douyin.com/favicon.ico",
+    "link": "https://www.douyin.com",
+    "group": "视频"
+  },
+  "8WbscmSfSLD5qXyBIKJiB": {
+    "title": "Vidhub视频库",
+    "icon": "https://vidhub.tv/mxstatic/image/logo2.png",
+    "link": "https://vidhub.tv",
+    "group": "视频"
+  },
+  "A2zA9xBhXfQRLUUhSmyxu": {
+    "title": "僵尸国度第五季",
+    "icon": "http://www.xmjxyby.com/statics/img/favicon.ico",
+    "link": "http://www.xmjxyby.com/oumeiju/jiangshiguodudiwuji/40386-2-5.html",
+    "group": "视频"
+  },
+  "C2Ho1GEowsrEtpZw7vw4d": {
+    "title": "4K电影-布谷TV | 4K电影下载",
+    "icon": "https://www.bugutv.org/wp-content/uploads/favicon.jpg",
+    "link": "https://www.bugutv.org/4kmovie",
+    "group": "视频"
+  },
+  "IYEoLS5DuWi4I9N7ESo9-": {
+    "title": "acfun",
+    "icon": "http://www.acfun.cn/favicon.ico",
+    "link": "http://www.acfun.cn/",
+    "group": "视频"
+  },
+  "JcRydZ4y8TUoGDUbOTcgW": {
+    "title": "《香格里拉·开拓异境～粪作猎手挑战神作～》",
+    "icon": "https://vidhub.tv/mxstatic/image/logo2.png",
+    "link": "https://vidhub.tv/vodplay/235651-1-2.html",
+    "group": "视频"
+  },
+  "LOii2DrmywVJYSIuMvQ26": {
+    "title": "voflix HD",
+    "icon": "https://gmu-download.oss-cn-beijing.aliyuncs.com/MTY1OTQ5MDQ1OTA4MiM3MDkjcG5n.png",
+    "link": "http://voflix.me",
+    "group": "视频"
+  },
+  "ObYM-E9DR5Vlu7CesCJU8": {
+    "title": "bilibili 首页",
+    "icon": "https://www.bilibili.com/favicon.ico",
+    "link": "https://www.bilibili.com/",
+    "group": "视频"
+  },
+  "d6viqBnumPX7kBnR8Pi6J": {
+    "title": "生化危机",
+    "icon": "http://dilidili9.com/favicon.png",
+    "link": "http://dilidili9.com/mov/15573/1.html",
+    "group": "视频"
+  },
+  "kixJrkDciLaHR588dVNqB": {
+    "title": "bilibili 番剧",
+    "icon": "https://www.bilibili.com/favicon.ico",
+    "link": "https://www.bilibili.com/anime",
+    "group": "视频"
+  },
+  "lTyN0GEkcjHowepw2QSaY": {
+    "title": "《僵尸国度第三季》",
+    "icon": "https://vidhub.tv/mxstatic/image/logo2.png",
+    "link": "https://vidhub.tv/vodplay/166148-1-1.html",
+    "group": "视频"
+  },
+  "nIb705UFb-Ig7jIz4RXDZ": {
+    "title": "噬亡村",
+    "icon": "http://www.rjtv6.com/template/rijv/statics/image/20220128/0007f75bb.ico",
+    "link": "http://www.rjtv6.com/player/4054-5-6.html",
+    "group": "视频"
+  },
+  "qDaluPL-Seo0ABTQHr9NJ": {
+    "title": "地下忍者第一季",
+    "icon": "http://dilidili9.com/favicon.ico",
+    "link": "http://dilidili9.com/acg/77465/1.html",
+    "group": "视频"
+  },
+  "qrbde3igvKhptIfSczPfN": {
+    "title": "在线播放我们星球上的生命 第02集 - voflix HD",
+    "icon": "https://gmu-download.oss-cn-beijing.aliyuncs.com/MTY1OTQ5MDQ1OTA4MiM3MDkjcG5n.png",
+    "link": "http://voflix.me/play/167231-1-2.html",
+    "group": "视频"
+  },
+  "teY_aMFohK0AibZ3VPRgQ": {
+    "title": "不死不幸第06集视频高清在线观看-大米动漫",
+    "icon": "https://www.damidm.com/upload/mxprocms/20230122-1/7bc52c269e1a1e301f48366fa1f93e0f.png",
+    "link": "https://www.damidm.com/player/20965-1-6.html",
+    "group": "视频"
+  },
+  "vfskyVZgco-k8d0e_U0Wr": {
+    "title": "腾讯视频",
+    "icon": "https://v.qq.com/favicon.ico",
+    "link": "https://v.qq.com/",
+    "group": "视频"
+  },
+  "wwqG2KlbpAq7N7nbGVAKs": {
+    "title": "爱奇艺",
+    "icon": "https://www.iqiyi.com/favicon.ico",
+    "link": "https://www.iqiyi.com/",
+    "group": "视频"
+  },
+  "1pCsT8NIzdKPG7coOuV6Y": {
+    "title": "Next.js react完整框架",
+    "icon": "https://nextjs.org/favicon.ico",
+    "link": "https://nextjs.org/docs",
+    "group": "计算机"
+  },
+  "5Ji9Nw1cyNbUL_S3si-YQ": {
+    "title": "tailwindcss官网",
+    "icon": "https://tailwindcss.com/favicons/apple-touch-icon.png?v=3",
+    "link": "https://tailwindcss.com/",
+    "group": "计算机"
+  },
+  "6lmKOfrEvgEeEWFAiv8V3": {
+    "title": "BootCDN 加速",
+    "icon": "https://www.bootcdn.cn/assets/ico/apple-touch-icon-144-precomposed.png?1694658481677",
+    "link": "https://www.bootcdn.cn/",
+    "group": "计算机"
+  },
+  "6yY7nj65TRTyeRER6NEg1": {
+    "title": "cpolar 内网穿透",
+    "icon": "https://www.cpolar.com/wp-content/uploads/2016/10/cropped-site-icon-1-1-32x32.png",
+    "link": "https://www.cpolar.com/",
+    "group": "计算机"
+  },
+  "72x87IA1uhsYJohIWJeth": {
+    "title": "github 首页",
+    "icon": "https://github.githubassets.com/favicons/favicon.png",
+    "link": "https://github.com/",
+    "group": "计算机"
+  },
+  "7_3LsFMOA1j7qRShJAu8e": {
+    "title": "Lit框架",
+    "icon": "https://lit.dev/favicon.ico",
+    "link": "https://lit.dev/docs/getting-started/",
+    "group": "计算机"
+  },
+  "7iDqBITh0Ujcy1_s3JGGL": {
+    "title": "prettier官网",
+    "icon": "https://prettier.io/icon.png",
+    "link": "https://prettier.io",
+    "group": "计算机"
+  },
+  "8QIqV83_2gpU1MjVM3Ty6": {
+    "title": "Monaco Editor",
+    "icon": "https://microsoft.github.io/favicon.ico",
+    "link": "https://microsoft.github.io/monaco-editor/docs.html#modules/editor.html",
+    "group": "计算机"
+  },
+  "8RUONCJUQUmy0nu3rQnxj": {
+    "title": "lit 组件框架",
+    "icon": "https://lit.dev/favicon.ico",
+    "link": "https://lit.dev/",
+    "group": "计算机"
+  },
+  "AdpIriIze14cCM_8dakXm": {
+    "title": "bun 官网",
+    "icon": "https://bun.sh/favicon.ico",
+    "link": "https://bun.sh/",
+    "group": "计算机"
+  },
+  "Bge3emIWRpu-p_q6ye3xB": {
+    "title": "svelte5",
+    "icon": "https://svelte-5-preview.vercel.app/favicon.ico",
+    "link": "https://svelte-5-preview.vercel.app/docs/introduction",
+    "group": "计算机"
+  },
+  "CN-n1XUJHgaPJnwVd64WE": {
+    "title": "Deno Deploy 管理面板",
+    "icon": "https://dash.deno.com/assets/logo.svg?v=69zjn3w0q7sx\"",
+    "link": "https://dash.deno.com/projects",
+    "group": "计算机"
+  },
+  "Cix16nrXY_GuG8hEVXKf9": {
+    "title": "清华镜像",
+    "icon": "https://mirrors.tuna.tsinghua.edu.cn/static/img/logo-small@2x.png",
+    "link": "https://mirrors.tuna.tsinghua.edu.cn/",
+    "group": "计算机"
+  },
+  "EXQqO4-Lj-X7o8dmIGocr": {
+    "title": "jsdelivr cdn分发",
+    "icon": "https://www.jsdelivr.com/favicon.ico",
+    "link": "https://www.jsdelivr.com",
+    "group": "计算机"
+  },
+  "Fj7pXbi8EYHmd4gclABGx": {
+    "title": "caniuse官网",
+    "icon": "https://caniuse.com/img/favicon-128.png",
+    "link": "https://caniuse.com/",
+    "group": "计算机"
+  },
+  "H-Vz7d9RwJfs5EORXkFc_": {
+    "title": "dev提问平台",
+    "icon": "https://devv.ai/zh",
+    "link": "https://devv.ai/zh",
+    "group": "计算机"
+  },
+  "HmpejsEcp_uGoFPuWgQK2": {
+    "title": "firefox下载页",
+    "icon": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-nightly",
+    "link": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-nightly",
+    "group": "计算机"
+  },
+  "I-xEweuqn6PF20N6haAIQ": {
+    "title": "iconify 图标",
+    "icon": "https://icon-sets.iconify.design/favicon@32.png",
+    "link": "https://icon-sets.iconify.design/",
+    "group": "计算机"
+  },
+  "ICOcOhkkNY-UtT9jwQEgF": {
+    "title": "npm 官网",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+    "link": "https://www.npmjs.com/",
+    "group": "计算机"
+  },
+  "IVZUI_Xt-SXyeuXU3u6Ol": {
+    "title": "solidjs",
+    "icon": "https://www.solidjs.com/favicon.ico",
+    "link": "https://www.solidjs.com",
+    "group": "计算机"
+  },
+  "JbkJNZf7CYzkxcpSDGzj3": {
+    "title": "卡内梅隆公开课",
+    "icon": "https://www.cs.cmu.edu/course-listings-department",
+    "link": "https://www.cs.cmu.edu/course-listings-department",
+    "group": "计算机"
+  },
+  "K8g0aVpTxLN7Urya3UTv0": {
+    "title": "@emotion 样式 ",
+    "icon": "https://emotion.sh/logo-96x96.png",
+    "link": "https://emotion.sh/docs/introduction",
+    "group": "计算机"
+  },
+  "PYUlR4h_IPGKf5-dF0LjR": {
+    "title": "Angular Material 组件库",
+    "icon": "https://material.angular.io/assets/img/favicons/favicon-32x32.png?v=8.2.3",
+    "link": "https://material.angular.io",
+    "group": "计算机"
+  },
+  "QxGAeI-qu4uPurQp6RwVG": {
+    "title": "tensorflow 首页",
+    "icon": "https://tensorflow.google.cn/favicon.ico",
+    "link": "https://tensorflow.google.cn/js?hl=zh-cn",
+    "group": "计算机"
+  },
+  "Qzo5qKPZsAxEa61OJ1Z-P": {
+    "title": "React vant 组件库",
+    "icon": "https://react-vant-gitee.3lang.dev/favicon.png",
+    "link": "https://react-vant-gitee.3lang.dev/components/space",
+    "group": "计算机"
+  },
+  "RApxJN3RUfmznzLEejEn5": {
+    "title": "TypeScript",
+    "icon": "https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae",
+    "link": "https://www.typescriptlang.org/zh/",
+    "group": "计算机"
+  },
+  "SK2QKPacDuge5mmrlvqvl": {
+    "title": "prisma官网",
+    "icon": "https://www.prisma.io/images/apple-touch-icon.png",
+    "link": "https://www.prisma.io/",
+    "group": "计算机"
+  },
+  "TY_pif1IYSITSuufatSZF": {
+    "title": "hono",
+    "icon": "https://hono.dev/favicon.ico",
+    "link": "https://hono.dev/getting-started/deno",
+    "group": "计算机"
+  },
+  "V97FrmomcSXMc1Zwq2Xms": {
+    "title": "sveltekit 官网",
+    "icon": "https://svelte.dev/favicon.png",
+    "link": "https://kit.svelte.dev/",
+    "group": "计算机"
+  },
+  "WQT3H1j-B_cGvsoPHZQ0R": {
+    "title": "vscode插件API",
+    "icon": "https://code.visualstudio.com/favicon.ico",
+    "link": "https://code.visualstudio.com/api/references/vscode-ap",
+    "group": "计算机"
+  },
+  "XdWwXp3bOy2p4KLJykzaR": {
+    "title": "svelte 官网",
+    "icon": "https://svelte.dev/favicon.png",
+    "link": "https://svelte.dev/docs/introduction",
+    "group": "计算机"
+  },
+  "YKnZ3rrIFZnHZ1MI1OkR_": {
+    "title": "Rxjs 官网",
+    "icon": "https://rxjs.dev/assets/images/favicons/favicon.ico",
+    "link": "https://rxjs.dev/",
+    "group": "计算机"
+  },
+  "Z4FbabsmWq9ZPpjrvSQUw": {
+    "title": "稀土掘金",
+    "icon": "https://juejin.cn/favicon.ico",
+    "link": "https://juejin.cn/",
+    "group": "计算机"
+  },
+  "bR0SJyiqb0_R1ckZpyHyT": {
+    "title": "徐鑫的组件库",
+    "icon": "https://xuxin-solid.deno.dev/favicon.ico",
+    "link": "https://xuxin-solid.deno.dev/#/",
+    "group": "计算机"
+  },
+  "bRpIuJ1GXG1CIOXhfOPIa": {
+    "title": "animate.css 动画",
+    "icon": "https://animate.style/img/favicon.ico",
+    "link": "https://animate.style",
+    "group": "计算机"
+  },
+  "dK8d7hFYNAxcZ2QGIN8KA": {
+    "title": "数学绘图",
+    "icon": "https://www.desmos.com/calculator?lang=zh-CN",
+    "link": "https://www.desmos.com/calculator?lang=zh-CN",
+    "group": "计算机"
+  },
+  "egsyhVl7nWWnkX6vmMQTB": {
+    "title": "Lib.rs — home for Rust crates // Lib.rs",
+    "icon": "https://lib.rs/favicon.png",
+    "link": "https://lib.rs",
+    "group": "计算机"
+  },
+  "h6Pu-7ZXoxtCL5o8QIR_4": {
+    "title": "sqlite3 官网",
+    "icon": "https://www.sqlite.org/favicon.ico",
+    "link": "https://www.sqlite.org/index.html",
+    "group": "计算机"
+  },
+  "jpn0YQJ5i0uOG06T0drah": {
+    "title": "immerjs纯函数操作库",
+    "icon": "https://github.com/favicon.ico",
+    "link": "https://github.com/immerjs/immer",
+    "group": "计算机"
+  },
+  "kR0Sf0hYUUIBr2Tfw13_L": {
+    "title": "Qiankun 微前端",
+    "icon": "https://gw.alipayobjects.com/mdn/rms_655822/afts/img/A*4sIUQpcos_gAAAAAAAAAAAAAARQnAQ",
+    "link": "https://qiankun.umijs.org/zh",
+    "group": "计算机"
+  },
+  "letXjt7NWqyjiz73UMr5q": {
+    "title": "React 官网",
+    "icon": "https://react.dev/favicon.ico",
+    "link": "https://react.dev/learn/describing-the-ui",
+    "group": "计算机"
+  },
+  "mdZ3-xvL7lODP7ynnSjPa": {
+    "title": "fusion ui 文档",
+    "icon": "https://fusion.design/favicon.ico",
+    "link": "https://fusion.design/pc/?themeid=2",
+    "group": "计算机"
+  },
+  "mueTKmHCZMea6JDfW0mbD": {
+    "title": "esm cdn",
+    "icon": "https://esm.sh/favicon.svg",
+    "link": "https://esm.sh/",
+    "group": "计算机"
+  },
+  "rx5HlcjMu-TgcYw9bvl8b": {
+    "title": "solid 图标库",
+    "icon": "https://heroicons.com/outline",
+    "link": "https://heroicons.com/outline",
+    "group": "计算机"
+  },
+  "sCpj-RxoCHfuT5UMY6pDV": {
+    "title": "ECharts 图表",
+    "icon": "https://echarts.apache.org/zh/images/favicon.png?_v_=20200710_1",
+    "link": "https://echarts.apache.org/examples/zh/index.html",
+    "group": "计算机"
+  },
+  "ufaS3MWtzMrGRjmLI28a2": {
+    "title": "Ant Design 组件库",
+    "icon": "https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png",
+    "link": "https://ant-design.antgroup.com/index-cn",
+    "group": "计算机"
+  },
+  "wOWxJX6sXhmjtDePeVrff": {
+    "title": "rust 官网",
+    "icon": "https://www.rust-lang.org/static/images/favicon.svg",
+    "link": "https://www.rust-lang.org/zh-CN/learn/get-started",
+    "group": "计算机"
+  },
+  "y-fNEV2lXJJ71DBX3fdP2": {
+    "title": "剪贴板",
+    "icon": "https://developer.mozilla.org/zh-CN/docs/Web/API/Clipboard/writeText",
+    "link": "https://developer.mozilla.org/zh-CN/docs/Web/API/Clipboard/writeText",
+    "group": "计算机"
+  },
+  "ypJ2KKye40lMbeYtT42o-": {
+    "title": "deno 官网",
+    "icon": "https://ts4.cn.mm.bing.net/th?id=ODLS.c1254629-b715-44aa-89a0-f3b3092f3198&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+    "link": "https://deno.land/",
+    "group": "计算机"
+  },
+  "zYR5LstsNQud2YHfx4Zn0": {
+    "title": "iconfont 图标",
+    "icon": "https://www.iconfont.cn/favicon.ico",
+    "link": "https://www.iconfont.cn/",
+    "group": "计算机"
+  },
+  "zqGNtERskApdb3btp3HYV": {
+    "title": "数学解析",
+    "icon": "https://mathsolver.microsoft.com/zh/solve-problem/%7B%20x%20%7D%20%5E%20%7B%202%20%7D%20-%204%20x%20-%205%20%3D%200",
+    "link": "https://mathsolver.microsoft.com/zh/solve-problem/%7B%20x%20%7D%20%5E%20%7B%202%20%7D%20-%204%20x%20-%205%20%3D%200",
+    "group": "计算机"
+  }
+}
